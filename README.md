@@ -9,3 +9,4 @@
 - 🌱 I’m currently learning:
     - Docker
     - Kubernetes
+    - Cloud architecture
