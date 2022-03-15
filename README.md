@@ -2,9 +2,10 @@
 - 📫 How to reach me:
     - On twitter: [@cwrenhold](https://twitter.com/cwrenhold)
 - 💻 Language skillset highlights:
-    - C#
-    - MS SQL
-    - TypeScript & JavaScript
+    - C# (Expert - 97th percentile on Pluralsight)
+    - MS SQL (Expert - 84th percentile on Pluralsight)
+    - JavaScript (Proficient on Pluralsight)
+    - TypeScript
     - F#
 - 🌱 I’m currently learning:
     - Docker
