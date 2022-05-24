@@ -11,3 +11,7 @@
     - Docker
     - Kubernetes
     - Cloud architecture
+- 👩‍🔬 I'm currently playing around with:
+    - Go
+    - Rust
+    - Ruby
