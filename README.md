@@ -8,6 +8,7 @@
     - JavaScript (Proficient on Pluralsight)
     - TypeScript
     - F#
+    - Ruby
 - 🌱 I’m currently learning:
     - Docker
     - Kubernetes
@@ -15,4 +16,3 @@
 - 👩‍🔬 I'm currently playing around with:
     - Go
     - Rust
-    - Ruby
