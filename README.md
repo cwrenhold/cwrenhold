@@ -5,6 +5,7 @@
 - 💻 Language skillset highlights:
     - C# (Expert - 97th percentile on Pluralsight)
     - MS SQL (Expert - 84th percentile on Pluralsight)
+    - PostgreSQL
     - JavaScript (Proficient on Pluralsight)
     - TypeScript
     - F#
