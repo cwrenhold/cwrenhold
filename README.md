@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cwrenhold
 - 📫 How to reach me:
-    - On Twitter: [@cwrenhold](https://twitter.com/cwrenhold)
     - On LinkedIn: [Catherine Wrenhold](https://www.linkedin.com/in/catherine-wrenhold-84a58623a)
 - 💻 Language skillset highlights:
     - C# (Expert - 97th percentile on Pluralsight)
